@@ -7,4 +7,8 @@
     * c'est voir sur ton gps aucune route en rouge
 
 * Au restaurant
+<<<<<<< HEAD
     * c'est gouter et apprecier un plat que tu connais pas
+=======
+    * c'est gouter et apprecier un plat que tu connais pas
+>>>>>>> main
