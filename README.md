@@ -12,15 +12,14 @@
     -   c'est gouter et apprecier un plat que tu connais pas
 
 -   A la maison
-    -   c'est quand ton voisin ne perfore pas le mur derrière ton bureau toute la journée.
-
+    -   c'est quand ton voisin ne perfore pas le mur derrière ton bureau toute la journée.tesst
 -   Au cinéma
     -   c'est de pouvoir choisir la meilleure place
     -   c'est d'avoir cette place gratuite
 
--   Au Bar
-    -   c'est apprécié le goute d'une bonne bière
+* Au Bar
+    * C'est apprécié le goute d'une bonne bière
 
--   Devant le PC
-    -   c'est avoir une pizza fumante près de soi
-    -   c'est aussi avoir sa bière spéciale
+* Devant le pc 
+    * c'est avoir sa pizza bien fumante près de soi
+    * c'est avoir sa bière spéciale
